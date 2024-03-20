@@ -1,2 +1,2 @@
-# USTICC-2023-Project
-This is the 2023 USITCC Project. I taught this project to data analytics students at Missouri State. 
+# USTICC-2023-Projects
+This repo contains all USTICC Projects I completed and taught at Missouri State University. I student teach every Friday for the IT club, teaching Data Analysis and Machine Learning in Python. 
